@@ -1,0 +1,28 @@
+.mbl-menu
+{
+	display: none;
+}
+.h-mbl
+{
+	display: none;
+}
+.mbl-pack-mask
+{
+	display: none;
+}
+.mbl-paging
+{
+	display: none;
+}
+input, textarea
+{
+	-webkit-appearance: none;
+}
+.clearfix:after {
+    clear: both;
+    content: " ";
+    display: block;
+    font-size: 0;
+    height: 0;
+    visibility: hidden;
+}
